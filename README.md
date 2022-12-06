@@ -14,4 +14,4 @@
  - [Introduction to VHDL](https://www.udemy.com/course/introduction-to-vhdl/learn/lecture/7807708?start=0#overview)
  - [Vim Masterclass](https://www.udemy.com/course/vim-commands-cheat-sheet/)
  
- ###i know this is a stupid way to self-promote just hold your horses until i set up something proper
+ ### i know this is a stupid way to self-promote just hold your horses until i set up something proper
