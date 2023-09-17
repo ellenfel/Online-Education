@@ -13,5 +13,12 @@
  - [Microcontrollers and the C Programming Language(MSP430)](https://www.udemy.com/course/introduction-to-vhdl/learn/lecture/7807708?start=0#overview)
  - [Introduction to VHDL](https://www.udemy.com/course/introduction-to-vhdl/learn/lecture/7807708?start=0#overview)
  - [Vim Masterclass](https://www.udemy.com/course/vim-commands-cheat-sheet/)
+
+## In - Progress Certifications
+
+### Platform: Coursera
+ - [Google Project Management: Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
+ - [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
+
  
  ### i know this is a stupid way to self-promote just hold your horses until i set up something proper
